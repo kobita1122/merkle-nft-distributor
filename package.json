@@ -1,0 +1,13 @@
+{
+  "name": "merkle-nft-distributor",
+  "version": "1.0.0",
+  "description": "Gas efficient Merkle Tree base verification asset airdrop system",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
